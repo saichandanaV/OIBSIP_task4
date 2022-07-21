@@ -1,5 +1,5 @@
 import java.util.*;
-class onlineExamination{
+class OnlineExamination{
 	public static void main(String[] args){
 		//Login
 		Scanner in=new Scanner(System.in);
